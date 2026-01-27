@@ -11,8 +11,7 @@
 ## 1. Overview
 - **Task:** Object detection (bbox)
 - **Image resolution:** 2048 × 2048
-- **Split (Train / Val / Test):** 191 / 238 / 238  
-  > Note: You wrote `19.1/238/238`. I interpret this as **191**. If it is not 191, please edit this line.
+- **Split (Train / Val / Test):** 1901 / 238 / 238  
 - **Number of classes:** 11
 
 ### 1.1 Class list
