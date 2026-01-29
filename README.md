@@ -16,7 +16,7 @@ An object detection dataset for floating rubbish on the water surface.
 
 ## 1. Overview
 
-- **Task:** Object detection (bbox)  
+- **Task:** Object detection
 - **Image resolution:** 2048 × 2048  
 - **Split (Train / Val / Test):** 1901 / 238 / 238  
 - **Number of classes:** 11  
@@ -49,9 +49,6 @@ This dataset provides bounding-box annotations in:
 
 ## 4. Download
 
-### 4.1 Download from Hugging Face (recommended)
-
-Install the CLI:
 ```bash
 pip install -U huggingface_hub
 
@@ -70,9 +67,6 @@ This dataset is released under **Creative Commons Attribution 4.0 International 
 - Author: gonzz2026
 - URL: https://huggingface.co/datasets/gonzz2026/A-dataset-of-images-of-floating-rubbish-on-the-surface-of-the-water
 - License: CC BY 4.0
-
-## DOI
-https://doi.org/10.57967/hf/7674
 
 ## Citation
 ```bibtex
