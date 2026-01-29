@@ -3,7 +3,7 @@
 An object detection dataset for floating rubbish on the water surface.
 
 - **Version:** v1.0  
-- **Release date:** 2026-01-28  
+- **Release date:** 2025-06-21  
 - **License:** CC BY 4.0  
 - **Privacy / sensitive content:** None  
 - **DOI:** https://doi.org/10.57967/hf/7674  
